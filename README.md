@@ -1,2 +1,8 @@
-# hcde-410-final
-HCDE 410 Final Project about....(TBD)
+Vincent Dinh
+HCDE 410
+Brock Craft
+
+Final Project Proposal
+
+This project proposal focuses on injuries that are sustained while rock climbing indoors at different experience levels and evaluating the impacts of those injuries. The goal of this analysis is to determine the types of injuries that are most common, their associated factors such as climbing grade or experience level, and the impact they have on climbers' recovery and safety practices.
+
